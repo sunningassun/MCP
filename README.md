@@ -85,7 +85,7 @@ DEFAULT_DESKTOP = buf.value
 
 ### 使用前端界面
 
-![show](D:\work\py\MCP\show.png)
+![show](show.png)
 
 #### 文件浏览器
 - 输入任意文件夹路径（例如 `D:\work`、`C:\Users`），点击“浏览”即可列出该目录下的文件和子文件夹。
