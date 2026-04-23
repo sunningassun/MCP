@@ -139,6 +139,6 @@ def get_current_time() -> str:
 
 编辑 `app.py` 中的 `HTML_PAGE` 变量，修改 CSS 或 HTML 结构。保存后刷新浏览器即可生效。
 
-## 🤝 贡献
+## 贡献
 
 欢迎提交 Issue 或 Pull Request 来改进本项目。
